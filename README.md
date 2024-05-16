@@ -14,4 +14,7 @@ Imageはディレクトリです。パスは適宜変更してください
 |
 |__AI_test.py
 |
-|__Image
+|__Image__
+          |
+          |__Train
+          |__Test
