@@ -1,3 +1,6 @@
+"""
+Written by JunkProgramShelf
+"""
 import cv2
 import os,glob
 import sys
