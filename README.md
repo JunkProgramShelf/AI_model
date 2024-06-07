@@ -10,11 +10,11 @@
 Imageはディレクトリです。パスは適宜変更してください
 
 /
-|__AI_learn.py
-|
-|__AI_test.py
-|
-|__Image__
-          |
-          |__Train
-          |__Test
+|__AI_learn.py  
+|  
+|__AI_test.py  
+|  
+|__Image__  
+          |  
+          |__Train  
+          |__Test  
