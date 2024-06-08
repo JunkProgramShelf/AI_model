@@ -12,9 +12,9 @@ Imageはディレクトリです。パスは適宜変更してください
 |__AI_test.py  
 |  
 |__Image__  
-          |  
-          |__Train  
-          |__Test  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|__Train  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|__Test  
           
 精度を上げたいときは  
 ・model.compile()の引数を変える  
